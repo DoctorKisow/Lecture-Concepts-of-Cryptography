@@ -1,0 +1,7 @@
+Concepts of Cryptography.
+Copyright (CC-BY-NC-SA v4.0) Matthew R. Kisow, D.Sc. 2021.
+
+Version Control Document.
+
+Version 		Description									Date                    Filename
+1.0         		Concepts of Cryptography							16-SEP-2008             Concepts of Cryptography.pptx
